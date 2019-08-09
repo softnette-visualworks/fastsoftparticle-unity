@@ -30,8 +30,7 @@ KEY FEATURES
 VIDEO OVERVIEW
 ----------
 
-[![Video Label](http://img.youtube.com/vi/oWAamVuxpTs/0.jpg)](https://youtu.be/oWAamVuxpTs) Video Label
-
+[![VideoOverview](https://imgur.com/HVVPc79)](https://youtu.be/oWAamVuxpTs)
 
 Also, take a look at our other assets. 
 https://assetstore.unity.com/publishers/40160
