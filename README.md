@@ -1,5 +1,4 @@
 FAST SOFTPARTICLE
-VisualWorks
 ----------
 
 ![Imgur](https://i.imgur.com/SyuiSlb.jpg)
@@ -28,5 +27,11 @@ KEY FEATURES
 * The changed shader is small and too cheap.
 
 
+VIDEO OVERVIEW
+----------
+
+![Video Label](http://img.youtube.com/vi/oWAamVuxpTs/0.jpg)](https://youtu.be/oWAamVuxpTs)
 
 
+Also, take a look at our other assets. 
+https://assetstore.unity.com/publishers/40160
