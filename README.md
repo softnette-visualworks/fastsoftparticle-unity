@@ -2,14 +2,14 @@ FAST SOFTPARTICLE
 VisualWorks
 ----------
 
-[Imgur](https://i.imgur.com/SyuiSlb.jpg)
+![Imgur](https://i.imgur.com/SyuiSlb.jpg)
 
 The Fast Softparticle Package might make a soft edge on the particle where the hard-edge occurs. (aka Soft-particles)
 
 KEY IDEA
 ----------
 
-[Imgur](https://i.imgur.com/Fg8cLgq.png)
+![Imgur](https://i.imgur.com/Fg8cLgq.png)
 
 Detect one of the bottom planes of the particle.
 Fade alpha based on distance from the plane.
