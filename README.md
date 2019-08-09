@@ -30,7 +30,8 @@ KEY FEATURES
 VIDEO OVERVIEW
 ----------
 
-[![VideoOverview](https://imgur.com/HVVPc79)](https://youtu.be/oWAamVuxpTs)
+[![VideoOverview](https://imgur.com/HVVPc79.jpg)](https://youtu.be/oWAamVuxpTs)
 
-Also, take a look at our other assets. 
+Also, take a look at our other assets.
+
 https://assetstore.unity.com/publishers/40160
