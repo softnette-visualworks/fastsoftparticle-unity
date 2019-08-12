@@ -30,7 +30,7 @@ KEY FEATURES
 VIDEO OVERVIEW
 ----------
 
-[![VideoOverview](https://imgur.com/HVVPc79.jpg)](https://youtu.be/oWAamVuxpTs)
+[![VideoOverview](https://imgur.com/HVVPc79.jpg)](https://www.youtube.com/watch?v=I9ooX_gafd8)
 
 Also, take a look at our other assets.
 
