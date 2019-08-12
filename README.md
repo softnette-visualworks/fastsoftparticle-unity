@@ -26,6 +26,10 @@ KEY FEATURES
   * Per Particle
 * The changed shader is small and too cheap.
 
+DOWNLOADS
+----------
+Please check out our [releases](https://github.com/softnette-visualworks/fastsoftparticle-unity/releases) for the latest package version of the plugin.
+
 
 VIDEO OVERVIEW
 ----------
